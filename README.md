@@ -127,6 +127,9 @@ Camera Frame → Resize to 160×160
 - **450-500 ms** inference time  
 - Fully offline processing  , no need for connectivity
 
+<img width="247" height="232" alt="image" src="https://github.com/user-attachments/assets/84822d91-ca40-4073-82f1-c07c3071b357" />
+<img width="253" height="230" alt="image" src="https://github.com/user-attachments/assets/93435b32-5374-4e78-a33c-c1da8d7a64c7" />
+<img width="246" height="217" alt="image" src="https://github.com/user-attachments/assets/391d966c-7586-4a89-b5e4-3ae28ebea518" />
 
 ---
 
