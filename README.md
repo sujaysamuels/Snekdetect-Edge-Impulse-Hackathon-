@@ -34,7 +34,10 @@ Build a **compact, fast, offline snake detection system** using:
 - Raspberry Pi  
 - A tiny YOLO model  
 - 160 × 160 image input  
-- High generalization across grass, mud, and cluttered backgrounds  
+- High generalization across grass, mud, and cluttered backgrounds
+
+<img width="1042" height="463" alt="image" src="https://github.com/user-attachments/assets/c8c6c561-5cb1-4249-9bf7-3f15b318b9a0" />
+
 
 ---
 
@@ -166,7 +169,10 @@ With:
 
 - A strong dataset  
 - YOLO + Edge Impulse  
-- Raspberry Pi deployment  
+- Raspberry Pi deployment
+
+
+This Techonology can be used to save multiple lives especially in 3rd world countries, where immediate emergency healthcare services are not very advanced, so it is best to alert and prevent such incidents with the help of tech and edge AI!
 
 
 
