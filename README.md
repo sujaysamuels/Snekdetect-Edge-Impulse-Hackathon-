@@ -116,7 +116,7 @@ Below is the pipeline:
 Camera Frame → Resize to 160×160
 → YOLO Inference
 → Bounding Box Filtering
-→ Snake Detected? → Trigger Alert
+→ Snake Detected? → Trigger Alert via TWILLIO
 → Display Output
 
 
